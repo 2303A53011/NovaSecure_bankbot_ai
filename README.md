@@ -22,8 +22,6 @@ The system enforces domain restriction, ensuring that only valid banking queries
 
 ## Project Structure
 
-
-.
 ├── ai_chatbot_faq.py
 ├── bank_knowledge.json
 ├── README.md
